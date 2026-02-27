@@ -1,0 +1,2 @@
+# teste-svg-xss
+a
